@@ -1,0 +1,69 @@
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\bin\Debug\rota praia1.exe
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\bin\Debug\rota praia1.pdb
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\obj\x86\Debug\rota_praia1.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\obj\x86\Debug\rota praia1.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\obj\x86\Debug\rota praia1.exe
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\obj\x86\Debug\rota praia1.pdb
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\bin\Debug\rota praia1.exe.config
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\obj\x86\Debug\rota_praia1.REH.resources
+c:\users\dell\documents\visual studio 2010\Projects\rota praia1\obj\x86\Debug\rota_praia1.frmPrincipal.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\rota praia1\bin\Debug\NAudio.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\rota praia1\obj\x86\Debug\rota_praia1.Torre.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\rota praia1\obj\x86\Debug\rota praia1.csprojResolveAssemblyReference.cache
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\bin\Debug\rota praia1.exe
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\bin\Debug\rota praia1.exe.config
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota praia1.csprojResolveAssemblyReference.cache
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota_praia1.Torre.resources
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota_praia1.REH.resources
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota_praia1.frmPrincipal.resources
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota_praia1.Properties.Resources.resources
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota praia1.csproj.GenerateResource.Cache
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota praia1.exe
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\obj\x86\Debug\rota praia1.pdb
+D:\ADRIANO\Informatica\Programas RIO\rota praia1\bin\Debug\rota praia1.pdb
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\bin\Debug\rota praia1.exe.config
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota praia1.exe
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota praia1.pdb
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota praia1.csprojResolveAssemblyReference.cache
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota_praia1.REH.resources
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmPrincipal.resources
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota_praia1.Properties.Resources.resources
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota praia1.csproj.GenerateResource.Cache
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\bin\Debug\rota praia1.exe
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\bin\Debug\rota praia1.pdb
+D:\ADRIANO\Informatica\Desenvolvimento\Projetos\Visual Studio\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmRota.resources
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.exe.config
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.exe
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.pdb
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.exe
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.pdb
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmRota.resources
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.REH.resources
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmPrincipal.resources
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.Properties.Resources.resources
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmAlteracaoAcfts.resources
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.exe.config
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.exe
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.pdb
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmRota.resources
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.Properties.Resources.resources
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.csproj.GenerateResource.Cache
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.exe
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.pdb
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.csprojResolveAssemblyReference.cache
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmAcfts.resources
+D:\ADRIANO\9-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmGrupos.resources
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.exe.config
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.exe
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.pdb
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.exe
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\bin\Debug\rota praia1.pdb
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.csprojResolveAssemblyReference.cache
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmAcfts.resources
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmGrupos.resources
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.frmRota.resources
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota_praia1.Properties.Resources.resources
+D:\Adriano 2\10-Desenvolvimento\2-C#\Torre\Rota Praia\obj\x86\Debug\rota praia1.csproj.GenerateResource.Cache
